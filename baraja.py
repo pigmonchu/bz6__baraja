@@ -29,5 +29,3 @@ def barajar(lista_de_naipes):
         lista_de_naipes[i] = aux
     return lista_de_naipes
 
-
-
